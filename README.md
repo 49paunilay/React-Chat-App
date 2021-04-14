@@ -2,6 +2,8 @@
 
 # Run "npm install" to get node modules 
 
+Project is hosted at -> https://messanger-clone-ebf8b.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
